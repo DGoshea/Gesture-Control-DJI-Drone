@@ -4,7 +4,7 @@ import time
 
 #Check DJITello docs for method implementations 
 class DroneController:
-    def __init__(self, safety_bounds=True):
+    def __init__(self, ):
     
     def connect(self):
     
